@@ -19,10 +19,3 @@ Password strength checker built using HTML, CSS, and JavaScript. This website al
 - **CSS**: For styling and responsive design.
 - **JavaScript**: Handles the password strength logic and user interactions.
 
-## Usage
-
-1. Open the `index.html` file in your browser.
-2. Enter a password in the input field to check its strength.
-3. The app will display feedback on whether the password is "Weak" or "Strong".
-4. Click the eye icon to toggle visibility of the password.
-5. Click the trash can icon to clear the password input.
